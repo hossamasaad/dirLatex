@@ -34,4 +34,4 @@ There are no requirements, just Python (https://www.python.org/downloads/)
 Direct Download (https://raw.githubusercontent.com/hossamasaad/dirLatex/main/dirLatex.py)
 
 ### Finaly Run it!!!
-    > python <script path>/dirtreex.py <directory path>
+    > python <script path>/dirLatex.py <directory path>
